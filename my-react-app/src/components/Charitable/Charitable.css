@@ -1,0 +1,17 @@
+#section6parent{
+background-color: rgb(112, 179, 201);
+padding-top: 5px;
+padding-bottom: 60px;
+}
+
+#section6{
+  text-align: center;
+  margin-top: 60px;
+  color: white
+}
+
+#image5{
+  display: flex;
+  justify-content: center;
+  margin-top: 60px;
+}

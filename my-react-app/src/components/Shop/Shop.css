@@ -1,0 +1,37 @@
+.shop{
+  text-align: center;
+  margin-top: 50px;
+  font-size: 30px;
+  font-weight: 600;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+.shop-text{
+   font-size: 30px;
+   letter-spacing: 0.6;
+   font-weight: 700;
+}
+
+.shop-container{
+    margin-left: 35px;
+    margin-right: 35px;
+    margin-top: 50px;
+    padding: 40px 40px ;
+}
+
+.shop-container-2{
+    display: flex;
+    justify-content: space-between;
+    gap:25px;
+}
+
+.shop-container2-child{
+    width: 20%;
+    background-color: rgb(237, 249, 246);
+    padding: 15px;
+    text-align: left;
+}
+
+.shop-button{
+     background-color: rgba(26 ,105, 190, 1);
+}

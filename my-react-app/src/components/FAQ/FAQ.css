@@ -1,0 +1,16 @@
+#faq{
+  margin-top:110px;
+  text-align: center;
+  background-color:rgb(227, 230, 229);
+}
+
+#faq-container{
+  font-size: 30px;
+  font-weight: 600;
+}
+
+#faq-container-1{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  justify-items: center;
+}
